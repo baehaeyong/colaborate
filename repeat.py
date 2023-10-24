@@ -1,4 +1,3 @@
-#반복문(for, while)
 for i in range(10):
     print(i)
 
@@ -18,3 +17,4 @@ while True:
 
 for i in range(5):
     print(i)
+# 오예오예
